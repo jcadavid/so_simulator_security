@@ -1,4 +1,4 @@
-# Momento Evaluativo – Tema 3: Seguridad de Sistemas Operativos
+# Momento Evaluativo – Seguridad de Sistemas Operativos
 # Descripción General
 
 Este proyecto implementa un simulador educativo que reproduce los principales mecanismos de seguridad utilizados por un sistema operativo moderno (Windows, Linux, macOS):
