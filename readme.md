@@ -28,17 +28,7 @@ Este simulador sirve como apoyo conceptual y práctico para el Momento Evaluativ
 ## Ejecución Rápida
 ### Requisitos
 
-Java 17 o superior
-
-#### Verificar versión:
-
-`java -version`
-
-**Compilación**
-`javac SecuritySimulator.java`
-
-#### Ejecución
-`java SecuritySimulator`
+Usando InteliJ para ejecutar y compilar el proyecto o en su defecto usar el .jar incluido con una versión de Java que soporte Java 24 o mayor.
 
 ## Menú principal del simulador
 
